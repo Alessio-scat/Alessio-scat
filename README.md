@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C, C++ at Lyon 42 School**
 
-- 📫 How to reach me **Scatamacchia.alessio.lgm@gmail.com**
+- 📫 How to reach me **scatamacchia.alessio.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
